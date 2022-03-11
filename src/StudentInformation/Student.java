@@ -128,10 +128,7 @@ public class Student {
     }
 
 
-
-
-
-
+    
     public void showProfiles() {
         System.out.printf("-%15s|-%7s|-%4s|-%5s|-%4.1f|-%10s|-%30s|\n"
         , getFullName(),className, major, id, GPA, phoneNumber, email);
