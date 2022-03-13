@@ -4,6 +4,9 @@
  */
 package com.myproject.cutrung;
 
+import java.sql.SQLException;
+import util.ConnectingPostgreSQL;
+
 /**
  *
  * @author admin
@@ -13,8 +16,12 @@ public class StudentManagementSoftware {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) throws SQLException {
+       
+//          String s = "//";
+//          System.out.println(s);
     }
+    
+  
     
 }
