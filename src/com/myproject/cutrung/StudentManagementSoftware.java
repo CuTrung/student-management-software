@@ -5,7 +5,6 @@
 package com.myproject.cutrung;
 
 import java.sql.SQLException;
-import util.ConnectingPostgreSQL;
 
 /**
  *
@@ -15,11 +14,11 @@ public class StudentManagementSoftware {
 
     /**
      * @param args the command line arguments
+     * @throws java.sql.SQLException
      */
     public static void main(String[] args) throws SQLException {
        
-//          String s = "//";
-//          System.out.println(s);
+
     }
     
   
