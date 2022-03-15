@@ -4,7 +4,7 @@
 * My first project :smile:
 
 
-
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
 
 
